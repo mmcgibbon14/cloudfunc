@@ -1,3 +1,5 @@
+const functions = require('@google-cloud/functions-framework');
+
 /**
  * Triggered from a message on a Cloud Pub/Sub topic.
  *
